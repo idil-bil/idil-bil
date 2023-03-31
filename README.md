@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Idil Bil</h1>
 <h3 align="center">electrical engineering student with a minor in commerce</h3>
 
-- 🌱 Learn more about me: **[linktr.ee/idil_bil](https://linktr.ee/idil_bil)**
+- 🌱 Learn more about me **https://linktr.ee/idil_bil**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
