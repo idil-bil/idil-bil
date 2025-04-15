@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Idil Bil</h1>
-<h3 align="center">electrical engineering student with a minor in commerce</h3>
+<h3 align="center">Product Manager for Consumer Electronics</h3>
 
 - 🌱 Learn more about me **https://linktr.ee/idil_bil**
 
